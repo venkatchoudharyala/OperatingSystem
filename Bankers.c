@@ -134,7 +134,7 @@ void cover(int n,int mon)
         }
         else
         {
-                printf("unsafe,after the above process deadlock has occured...\n");
+                printf("Unsafe,after the above process deadlock has occured...\n");
         }
 
 }
