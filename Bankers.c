@@ -130,7 +130,7 @@ void cover(int n,int mon)
 {
         if(mon==n)
         {
-                printf("safe\n");
+                printf("Safe\n");
         }
         else
         {
